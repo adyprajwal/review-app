@@ -1,6 +1,8 @@
 node_modules/**/*
 .expo/*
 npm-debug.*
+*.jar
+*.aab
 *.jks
 *.p8
 *.p12
